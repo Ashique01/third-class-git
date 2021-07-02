@@ -1,0 +1,17 @@
+body{
+    background-image: url("me and chowa.jpg");
+    
+}
+h1{
+    color: rgba(218, 13, 13, 0.883);
+    text-align: justify;
+    font-size: 8vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color: rgb(207, 3, 163);
+    text-align: justify;
+    display: flexbox;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vh;
+}
